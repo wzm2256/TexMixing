@@ -8,7 +8,7 @@ Code coming soon
 
 @article{xue2020texture,
   title={Texture mixing by interpolating deep statistics via gaussian models},
-  author={Xue$^*$, Zhucun and {\bf Zi-Ming Wang}$^*$},
+  author={Xue, Zhucun and Zi-Ming Wang},
   journal={IEEE Access},
   volume={8},
   pages={60747--60758},
