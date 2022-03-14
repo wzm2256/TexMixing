@@ -4,6 +4,8 @@ This is a tensorflow-keras implement of 'Texture Mixing by Interpolating Deep St
 Code coming soon
 
 
+
+Please visit our [project page](https://wzm2256.github.io/TexMixing/project) for more mixing results.
 ## Reference
 
     @article{xue2020texture,
